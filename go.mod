@@ -1,6 +1,6 @@
-module github.com/eth0izzle/shhgit
+module github.com/orlangure/shhgit
 
-go 1.14
+go 1.16
 
 require (
 	github.com/fatih/color v1.7.0
@@ -12,3 +12,5 @@ require (
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v3 v3.0.0-20190709130402-674ba3eaed22
 )
+
+retract v0.3.0

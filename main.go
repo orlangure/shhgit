@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eth0izzle/shhgit/core"
 	"github.com/fatih/color"
+	"github.com/orlangure/shhgit/core"
 )
 
 type MatchEvent struct {
